@@ -17,3 +17,7 @@
 * Once your goup has a clear, common visual image of what you'd like to achieve, have at it -- write some code.
 
 See branch bowling_4_lowball_refactor for the step-by-step example.
+
+Sequence diagram tutorials:
+https://online.visual-paradigm.com/tutorials/sequence-diagram-tutorial/
+https://creately.com/blog/diagrams/sequence-diagram-tutorial/
